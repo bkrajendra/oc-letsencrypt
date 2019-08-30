@@ -13,6 +13,8 @@ This plugin will only generate certificate and key files. Certificate has to be 
 2. Install this plugin and run
         php artisan october:up
 3. You're done :)
+4. Make sure to complete the instructions at https://octobercms.com/docs/setup/installation#crontab-setup for auto renew to work.
+
 
 ## Usage
 * Just goto settings and click LetsEncrypt
